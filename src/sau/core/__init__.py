@@ -1,0 +1,1 @@
+"""Core engine: schema parsing, stats codec, orchestration."""
